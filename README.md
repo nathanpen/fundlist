@@ -24,6 +24,7 @@ When making the AJAX call for the line chart, make sure a **valid** ISIN is pass
 - If the fund is older than 4 year (see `"Lauch Date"` property), show the *share class* properties as a list (`<ul>`) instead of a table
 
 See a working example here: http://fe2.jpmorgan.com
+*Note*: you only have to create the *fund card list*, no need to create the search at the top and the filters at the left.
 
 # Data to be used
 - `funds.json`: contains the fund and *share class* data
